@@ -3,7 +3,7 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
-token = 'Insert your token here'
+token = '5675189721:AAG3y8lI1R3HonH4vZWqD3rV5h9yvF7s34o'
 bot = telepot.Bot(token)
 
 def main(cmd):
